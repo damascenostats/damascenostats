@@ -23,7 +23,7 @@
 
    ---
 
-   ### 🤖 Linguagens e Tecnologias
+   ### 🤖 Ferramentas e tecnologias
 
   <img 
         align="left" 
